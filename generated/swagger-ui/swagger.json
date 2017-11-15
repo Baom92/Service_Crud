@@ -1,0 +1,10 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "description" : "Serveur permettant d’effectuer des actions CRUD sur les services commune et departement.",
+    "version" : "1.0.0",
+    "title" : "Service de gestion des departements et des communes"
+  },
+  "host" : "localhost:8080",
+  "schemes" : [ "http", "https" ]
+}
